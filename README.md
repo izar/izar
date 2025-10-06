@@ -30,28 +30,28 @@ My specialty is **Continuous Threat Modeling (CTM)** — weaving threat modeling
 | 
 ---
 
-## 🧠 Latest Writing
+## Latest Writing
 <!--START_SECTION:blog-->
 *(loading… the action will fill this in)*
 <!--END_SECTION:blog-->
 
 ---
 
-## 🛰️ Recent GitHub Activity
+## Recent GitHub Activity
 <!--START_SECTION:activity-->
 *(loading… the action will fill this in)*
 <!--END_SECTION:activity-->
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Izar's GitHub stats](https://github-readme-stats.vercel.app/api?username=izar&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izar&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
-## 🤝 Connect
+## Connect
 
 - **LinkedIn:** [linkedin.com/in/izartarandach](https://linkedin.com/in/izartarandach)  
 - **GitHub Discussions:** open to CTM, threat modeling, and security automation chats
