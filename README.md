@@ -30,20 +30,6 @@ My specialty is **Continuous Threat Modeling (CTM)** — weaving threat modeling
 | 
 ---
 
-## Latest Writing
-<!--START_SECTION:blog-->
-*(loading… the action will fill this in)*
-<!--END_SECTION:blog-->
-
----
-
-## Recent GitHub Activity
-<!--START_SECTION:activity-->
-*(loading… the action will fill this in)*
-<!--END_SECTION:activity-->
-
----
-
 ## GitHub Stats
 
 ![Izar's GitHub stats](https://github-readme-stats.vercel.app/api?username=izar&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
