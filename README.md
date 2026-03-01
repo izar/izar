@@ -30,13 +30,6 @@ My specialty is **Continuous Threat Modeling (CTM)** — weaving threat modeling
 | [**TM Skills**](https://github.com/izar/tm_skills) | Bringing together CTM and OWASP pytm as an agent-led solution for threat modeling |
 ---
 
-## GitHub Stats
-
-![Izar's GitHub stats](https://github-readme-stats.vercel.app/api?username=izar&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izar&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ## Connect
 
 - **LinkedIn:** [linkedin.com/in/izartarandach](https://linkedin.com/in/izartarandach)  
