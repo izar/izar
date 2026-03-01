@@ -27,7 +27,7 @@ My specialty is **Continuous Threat Modeling (CTM)** — weaving threat modeling
 |------|--------------|
 | [**continuous-threat-modeling**](https://github.com/izar/continuous-threat-modeling) | Reference implementation of CTM — lightweight, iterative TM-as-practice |
 | [**OWASP pytm**](https://github.com/OWASP/pytm) | A pragmatic checklist for shipping securely from the first commit |
-| 
+| [**TM Skills**](https://github.com/izar/tm_skills) | Bringing together CTM and OWASP pytm as an agent-led solution for threat modeling |
 ---
 
 ## GitHub Stats
